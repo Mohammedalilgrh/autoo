@@ -3,5 +3,5 @@ pillow>=9.5.0
 pydantic>=2.4.0
 reportlab>=4.0
 requests>=2.31.0
-selenium>=5.8.0
+selenium==4.11.2
 python-dotenv>=1.0.0
